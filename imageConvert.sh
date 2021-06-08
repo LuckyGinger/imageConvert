@@ -22,6 +22,9 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
+# Takes two params: src directory of images to be converted and dest directory
+# of converted images
+
 # cd $1
 shopt -s nullglob
 # STARTTIME=$(date +%T)
